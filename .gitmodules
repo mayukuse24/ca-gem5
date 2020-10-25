@@ -1,3 +1,6 @@
 [submodule "Project1_SPEC"]
 	path = Project1_SPEC
 	url = https://github.com/timberjack/Project1_SPEC
+[submodule "gem5"]
+	path = gem5
+	url = https://github.com/mayukuse24/gem5
